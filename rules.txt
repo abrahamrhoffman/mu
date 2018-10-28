@@ -1,0 +1,6 @@
+
+Formal Rules     Explanation                                    Example
+1. xI -> xIU     Add a U to the end of any string ending in I   MI to MIU
+2. Mx -> Mxx     Double the string after the M                  MIU to MIUIU
+3. xIIIy -> xUy  Replace any III with a U                       MUIIIU to MUUU
+4. xUUy -> xy    Remove any UU                                  MUUU to MU
